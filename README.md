@@ -59,3 +59,12 @@ This project is a farm management game.
      ---     
     8. 
      ![Tutorial 8](https://i.hizliresim.com/mt74sn8.png)
+
+
+   #### Group Members 
+ * **Arif ÖZALP**
+ * **Bülent DURUSOY**
+ * **Meriç UYSALERLER**
+ * **Mert BİLGİÇ**
+ * **Onur ÇOKYİĞİT**
+  

@@ -2,33 +2,33 @@
 <generalgame>
 	<gameinfo>
 		<endGame>false</endGame>
-		<isFinishProfile>false</isFinishProfile>
-		<isFinishTutorial>false</isFinishTutorial>
-		<wheatPlantPiece>0</wheatPlantPiece>
-		<wheatHarvestPiece>0</wheatHarvestPiece>
-		<gainMoneyWithWheat>0</gainMoneyWithWheat>
-		<tomatoPlantPiece>0</tomatoPlantPiece>
-		<tomatoHarvestPiece>0</tomatoHarvestPiece>
-		<gainMoneyWithTomato>0</gainMoneyWithTomato>
+		<isFinishProfile>true</isFinishProfile>
+		<isFinishTutorial>true</isFinishTutorial>
+		<wheatPlantPiece>1</wheatPlantPiece>
+		<wheatHarvestPiece>50</wheatHarvestPiece>
+		<gainMoneyWithWheat>400</gainMoneyWithWheat>
+		<tomatoPlantPiece>1</tomatoPlantPiece>
+		<tomatoHarvestPiece>20</tomatoHarvestPiece>
+		<gainMoneyWithTomato>700</gainMoneyWithTomato>
 		<cornPlantPiece>0</cornPlantPiece>
 		<cornHarvestPiece>0</cornHarvestPiece>
 		<gainMoneyWithCorn>0</gainMoneyWithCorn>
 	</gameinfo>
 	<player>
-		<name></name>
-		<money>2000</money>
+		<name>Osman</name>
+		<money>2100</money>
 		<missionmanager>
 			<currentMissionIndex>0</currentMissionIndex>
-			<missionProgress>0</missionProgress>
+			<missionProgress>1</missionProgress>
 		</missionmanager>
 		<timer>
-			<second>0</second>
+			<second>37</second>
 		</timer>
 	</player>
 	<farm>
-		<farmname></farmname>
+		<farmname>Osman's Farm</farmname>
 		<warehouse>
-			<wheatpiece>0</wheatpiece>
+			<wheatpiece>10</wheatpiece>
 			<tomatopiece>0</tomatopiece>
 			<cornpiece>0</cornpiece>
 			<capacity>600</capacity>
@@ -114,7 +114,7 @@
 		<eventStartTime>0</eventStartTime>
 	</eventmanager>
 	<soundmanager>
-		<sfxsound>85</sfxsound>
-		<musicsound>0</musicsound>
+		<sfxsound>95</sfxsound>
+		<musicsound>5</musicsound>
 	</soundmanager>
 </generalgame>

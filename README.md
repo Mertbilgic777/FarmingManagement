@@ -37,28 +37,28 @@ This project is a farm management game.
     ### Tutorial
     
     1.  
-     ![Tutorial 1](https://i.hizliresim.com/7wmjtpd.png)
+     ![Tutorial 1](doc/img/1.jpg)
      ---
     2. 
-     ![Tutorial 2](https://i.hizliresim.com/djcelct.png)  
+     ![Tutorial 2](doc/img/2.jpg)
      ---               
     3. 
-     ![Tutorial 3](https://i.hizliresim.com/hpvdzmz.png)
+     ![Tutorial 3](doc/img/3.jpg)
      ---     
     4. 
-     ![Tutorial 4](https://i.hizliresim.com/gb4w79p.png)
+     ![Tutorial 4](doc/img/4.jpg)
      ---     
     5. 
-     ![Tutorial 5](https://i.hizliresim.com/rdugt9i.png)
+     ![Tutorial 5](doc/img/5.jpg)
      ---     
     6. 
-     ![Tutorial 6](https://i.hizliresim.com/54swyl6.png)
+     ![Tutorial 6](doc/img/6.jpg)
      ---     
     7. 
-     ![Tutorial 7](https://i.hizliresim.com/sizicee.png)
+     ![Tutorial 7](doc/img/7.jpg)
      ---     
     8. 
-     ![Tutorial 8](https://i.hizliresim.com/mt74sn8.png)
+     ![Tutorial 8](doc/img/8.jpg)
 
 
    #### Group Members 
